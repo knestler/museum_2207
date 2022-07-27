@@ -1,2 +1,4 @@
 class Patron
+
+
 end
